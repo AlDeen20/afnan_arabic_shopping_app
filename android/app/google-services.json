@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "996594980477",
+    "project_id": "afnanmall-f2f16",
+    "storage_bucket": "afnanmall-f2f16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996594980477:android:9e05c75927889296dac314",
+        "android_client_info": {
+          "package_name": "com.afnanmall.afnan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDylIk7Q8dKFzkA5QQgnI0BE2_3oXQ3Q08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996594980477:android:4d5414b32acac31edac314",
+        "android_client_info": {
+          "package_name": "com.afnanmall.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDylIk7Q8dKFzkA5QQgnI0BE2_3oXQ3Q08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
