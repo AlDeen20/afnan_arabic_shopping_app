@@ -27,8 +27,8 @@ Here are some screenshots showcasing the features and interface of the Afnan Ara
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/afnan_ar_shopping_app.git`
-2. Navigate to the project directory: `cd afnan_ar_shopping_app`
+1. Clone the repository: `git clone https://github.com/AlDeen20/afnan_ar_shopping_app`
+2. Navigate to the project directory: `cd afnan_arabic_shopping_app`
 3. Install dependencies: `flutter pub get`
 4. Run the app: `flutter run`
 
