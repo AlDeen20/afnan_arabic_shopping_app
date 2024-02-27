@@ -16,7 +16,7 @@ Afnan Arabic Shop App is a full-fledged mobile application developed using Flutt
 
 Here are some screenshots showcasing the features and interface of the Afnan Arabic Shop App:
 
-1. ![Screenshot 1](/workspaces/afnan_ar_shopping_app/images/App_images/1.jpg)
+1. ![Screenshot 1](https://github.com/AlDeen20/afnan_ar_shopping_app/blob/main/images/App_images/1.jpg?raw=true)
 2. ![Screenshot 2](/workspaces/afnan_ar_shopping_app/images/App_images/2.jpg)
 3. ![Screenshot 3](/workspaces/afnan_ar_shopping_app/images/App_images/3.jpg)
 4. ![Screenshot 4](/workspaces/afnan_ar_shopping_app/images/App_images/4.jpg)
